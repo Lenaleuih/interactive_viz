@@ -1,0 +1,10 @@
+name: interactive_viz
+title:
+username:
+account: lenakafka
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 890341
+bundleId: 2038609
+url: https://lenakafka.shinyapps.io/interactive_viz/
+when: 1556204540.86279
